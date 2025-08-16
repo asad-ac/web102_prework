@@ -35,7 +35,7 @@ Video created with Loom
 
 ## Notes
 
-* I got stuck with the ternary operator on challenge 6 but solved it, by remembering to increment the total to count the amount of unfunded games.
+* I got stuck with the ternary operator on challenge 6, but I solved it by remembering to increment the total to count the amount of unfunded games.
 
 ## License
 
