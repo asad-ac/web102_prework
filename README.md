@@ -24,7 +24,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <a href='https://www.loom.com/share/2e2160e4ba514a42b8882d29d4035655?sid=9b2b08b6-46e8-4a9a-9932-bac01caa5f9b' target="_blank" aria-label="video-walkthrough"> Video Walkthrough </a>
-<div style="position: relative; padding-bottom: 59.210526315789465%; height: 0;"><iframe src="https://www.loom.com/embed/2e2160e4ba514a42b8882d29d4035655?sid=3461a62a-4d49-4f66-9621-1bbbe599f6f9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Video created with Loom  
 
