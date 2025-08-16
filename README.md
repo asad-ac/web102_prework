@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-* I got stuck with the ternary operator on challenge 6 but got it going.
+* I got stuck with the ternary operator on challenge 6 but got it going by remembering we need to increment the total.
 
 ## License
 
